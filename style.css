@@ -10,7 +10,7 @@ body {
   justify-content: center;
   background-color: #000000;
   padding: 5em;
-  max-width: 400px;
+  min-width: 400px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -24,7 +24,6 @@ p {
   margin-bottom: 2em;
 }
 input {
-  display: block;
   margin-bottom: 1em;
   margin-left: auto;
   margin-right: auto;
